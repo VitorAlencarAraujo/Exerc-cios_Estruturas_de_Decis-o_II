@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class dois_logins {
     static void main() {
-        
+
        /* 5. Suponha que o professor Atila possua dois logins na rede do SENAI-SP.
                 Construa um programa que valide o acesso do professor à rede.
                 Caso o par usuário/senha informado esteja correto, o programa deve
